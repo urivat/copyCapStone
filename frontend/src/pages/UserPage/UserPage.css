@@ -1,0 +1,17 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-image: url(http://www.thepublicdiscourse.com/wp-content/uploads/2017/05/words-have-power.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.grid-item1{
+    grid-column: 1;
+}
+
+.grid-item2 {
+    margin-top: 12px;
+    grid-column: 2 / 3;
+    
+}

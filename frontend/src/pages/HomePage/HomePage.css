@@ -1,0 +1,21 @@
+
+
+.container{
+    position: static ;
+    margin-left: 5em;
+    margin-top: 1em;
+}
+.search-bar{
+    position: absolute;
+    margin-bottom: 4em;
+    margin-right: 2px;
+    height: 100px;
+    left:1em
+}
+input {
+    height: 25px;
+    width: 300px;
+}
+button {
+    position: relative;
+}
